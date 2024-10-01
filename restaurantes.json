@@ -1,5 +1,4 @@
 {
-  "restaurants": [
     {
       "name": "Andrés Carne de Res",
       "latitude": 4.810628,
@@ -119,5 +118,4 @@
       "photo": "https://example.com/persepolis.jpg",
       "categorias": ["Persa", "Mediterránea", "Vegetariana"]
     }
-  ]
 }
