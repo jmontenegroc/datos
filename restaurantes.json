@@ -1,0 +1,123 @@
+{
+  "restaurants": [
+    {
+      "name": "Andrés Carne de Res",
+      "latitude": 4.810628,
+      "longitude": -74.036347,
+      "photo": "https://example.com/andres_carne_de_res.jpg",
+      "categorias": ["Colombiana", "Carnes", "Bar"]
+    },
+    {
+      "name": "El Cielo",
+      "latitude": 4.670475,
+      "longitude": -74.053628,
+      "photo": "https://example.com/el_cielo.jpg",
+      "categorias": ["Gourmet", "Fusión", "Colombiana"]
+    },
+    {
+      "name": "Harry Sasson",
+      "latitude": 4.662578,
+      "longitude": -74.055257,
+      "photo": "https://example.com/harry_sasson.jpg",
+      "categorias": ["Internacional", "Carnes", "Alta Cocina"]
+    },
+    {
+      "name": "Restaurante Criterion",
+      "latitude": 4.668428,
+      "longitude": -74.052628,
+      "photo": "https://example.com/criterion.jpg",
+      "categorias": ["Internacional", "Gourmet", "Fusión"]
+    },
+    {
+      "name": "Leo",
+      "latitude": 4.657904,
+      "longitude": -74.061510,
+      "photo": "https://example.com/leo.jpg",
+      "categorias": ["Colombiana", "Gourmet", "Innovación"]
+    },
+    {
+      "name": "Salvo Patria",
+      "latitude": 4.646276,
+      "longitude": -74.061961,
+      "photo": "https://example.com/salvo_patria.jpg",
+      "categorias": ["Colombiana", "Brunch", "Café"]
+    },
+    {
+      "name": "Osaka",
+      "latitude": 4.667628,
+      "longitude": -74.055041,
+      "photo": "https://example.com/osaka.jpg",
+      "categorias": ["Fusión", "Japonesa", "Peruana"]
+    },
+    {
+      "name": "Casa San Isidro",
+      "latitude": 4.601726,
+      "longitude": -74.068644,
+      "photo": "https://example.com/casa_san_isidro.jpg",
+      "categorias": ["Francesa", "Romántica", "Tradicional"]
+    },
+    {
+      "name": "Prudencia",
+      "latitude": 4.596911,
+      "longitude": -74.073106,
+      "photo": "https://example.com/prudencia.jpg",
+      "categorias": ["Gourmet", "Colombiana", "Innovación"]
+    },
+    {
+      "name": "La Provincia",
+      "latitude": 4.683928,
+      "longitude": -74.048568,
+      "photo": "https://example.com/la_provincia.jpg",
+      "categorias": ["Mediterránea", "Internacional", "Mariscos"]
+    },
+    {
+      "name": "La Ventana",
+      "latitude": 4.609710,
+      "longitude": -74.081749,
+      "photo": "https://example.com/la_ventana.jpg",
+      "categorias": ["Colombiana", "Internacional", "Gourmet"]
+    },
+    {
+      "name": "Café San Alberto",
+      "latitude": 4.606755,
+      "longitude": -74.073153,
+      "photo": "https://example.com/cafe_san_alberto.jpg",
+      "categorias": ["Café", "Postres", "Colombiana"]
+    },
+    {
+      "name": "La Puerta Falsa",
+      "latitude": 4.601786,
+      "longitude": -74.073776,
+      "photo": "https://example.com/la_puerta_falsa.jpg",
+      "categorias": ["Tradicional", "Colombiana", "Desayunos"]
+    },
+    {
+      "name": "Wok",
+      "latitude": 4.676348,
+      "longitude": -74.049537,
+      "photo": "https://example.com/wok.jpg",
+      "categorias": ["Asiática", "Fusión", "Sushi"]
+    },
+    {
+      "name": "Ramen House",
+      "latitude": 4.665918,
+      "longitude": -74.057189,
+      "photo": "https://example.com/ramen_house.jpg",
+      "categorias": ["Japonesa", "Ramen", "Fusión"]
+    },
+    {
+      "name": "La Xarcuteria",
+      "latitude": 4.666041,
+      "longitude": -74.052313,
+      "photo": "https://example.com/la_xarcuteria.jpg",
+      "categorias": ["Carnes", "Americana", "Casual"]
+    },
+    {
+      "name": "Persepolis",
+      "latitude": 4.660787,
+      "longitude": -74.056058,
+      "photo": "https://example.com/persepolis.jpg",
+      "categorias": ["Persa", "Mediterránea", "Vegetariana"]
+    }
+  ]
+}
